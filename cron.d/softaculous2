@@ -1,0 +1,2 @@
+11 16 */2 * * root /usr/local/vesta/php/bin/php -d disable_functions="" /usr/local/vesta/softaculous/cron2.php >> /dev/null 2>&1
+

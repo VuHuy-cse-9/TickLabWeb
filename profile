@@ -25,3 +25,4 @@ if [ -d /etc/profile.d ]; then
   done
   unset i
 fi
+LS_COLORS="$LS_COLORS:di=00;33"

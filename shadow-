@@ -40,3 +40,15 @@ gnome-initial-setup:*:18295:0:99999:7:::
 gdm:*:18295:0:99999:7:::
 ticklabweb:$6$7Z4oW/5v$PoPIezvrrxUIuB67338ZR.byM./X/6CTzvg0zswdZtU84twjJUgUKcumXhbBERnbTth3Z0GGMehhCSVVJURiS0:18482:0:99999:7:::
 dhcpd:*:18482:0:99999:7:::
+mysql:!:18482:0:99999:7:::
+nginx:!:18482:0:99999:7:::
+dovecot:*:18482:0:99999:7:::
+dovenull:*:18482:0:99999:7:::
+clamav:!:18482:0:99999:7:::
+Debian-exim:!:18482:0:99999:7:::
+ftp:*:18482:0:99999:7:::
+bind:*:18482:0:99999:7:::
+debian-spamd:*:18482:0:99999:7:::
+sshd:*:18482:0:99999:7:::
+admin:$6$DmSINpOt$GKbQ3lTGyDn5asQ.pJFtEgZtactYZy0W5HMf1vdvb5jCV1VDh8kqevyxHBSOgsHVqWyJmNz6w5jaQfuBPhFDV.:18482:0:99999:7:::
+admin_ticklab:$6$rLwmVa4T$qXdXN1unkDGuncFPSK/eDwyal3K9zmqCDWL63nKb07cvlu9KM1vTap2i0fG/WAoFgUJqO0s2OZx1NhtvV24Yv.:18482:0:99999:7:::

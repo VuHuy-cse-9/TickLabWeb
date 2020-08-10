@@ -3,3 +3,5 @@
 /bin/bash
 /bin/rbash
 /bin/dash
+/usr/sbin/nologin
+/usr/bin/rssh

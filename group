@@ -6,7 +6,7 @@ adm:x:4:syslog,ticklabweb
 tty:x:5:
 disk:x:6:
 lp:x:7:
-mail:x:8:
+mail:x:8:Debian-exim,dovecot,clamav
 news:x:9:
 uucp:x:10:
 man:x:12:
@@ -65,3 +65,13 @@ gdm:x:125:
 ticklabweb:x:1000:
 sambashare:x:126:ticklabweb
 dhcpd:x:127:
+mysql:x:128:
+nginx:x:129:
+dovecot:x:130:
+dovenull:x:131:
+clamav:x:132:
+Debian-exim:x:133:clamav
+ftp:x:134:
+bind:x:135:
+debian-spamd:x:136:
+admin:x:1001:

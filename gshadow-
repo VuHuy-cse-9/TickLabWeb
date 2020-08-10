@@ -6,7 +6,7 @@ adm:*::syslog,ticklabweb
 tty:*::
 disk:*::
 lp:*::
-mail:*::
+mail:*::Debian-exim,dovecot,clamav
 news:*::
 uucp:*::
 man:*::
@@ -64,3 +64,13 @@ geoclue:!::
 gdm:!::
 ticklabweb:!::
 sambashare:!::ticklabweb
+dhcpd:!::
+mysql:!::
+nginx:!::
+dovecot:!::
+dovenull:!::
+clamav:!::
+Debian-exim:!::clamav
+ftp:!::
+bind:!::
+debian-spamd:!::
